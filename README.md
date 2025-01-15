@@ -7,5 +7,5 @@ Emotion detection, a branch of natural language processing (NLP), aims to identi
 Accurate Predictions: Trained on a robust dataset, the model offers precise emotion classification.
 User-Friendly: Simple API for easy integration into various projects.
 Customizable: Easily retrain the model with your own dataset to tailor it to specific needs.
-# Accesibilty
+# Accessibilty
 I have included all the files required for understanding this model easily.
